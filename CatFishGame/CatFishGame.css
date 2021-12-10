@@ -1,0 +1,4 @@
+.nb_joueur {
+  display: flex;
+  justify-content: space-evenly;
+}
